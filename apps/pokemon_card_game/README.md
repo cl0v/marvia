@@ -1,0 +1,1 @@
+BattleRepository -> Conecta com o servidor e realiza todas as ações que devem ser seguras para um multiplayer
